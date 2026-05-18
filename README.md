@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Nagapriya Hebbare 👋
 
-<!--
-**nagapriyahebbare/nagapriyahebbare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Cloud & DevOps Engineer based in Bengaluru, India  
+🔧 Hands-on with AWS, Linux server hardening, and networking fundamentals  
+📚 Currently pursuing AWS Cloud Practitioner | CCNA in progress  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+| Cloud | Linux | Networking | DevOps |
+|---|---|---|---|
+| AWS (EC2, S3, IAM, VPC) | Ubuntu Server | TCP/IP, DNS, SSH | Bash Scripting |
+| AWS CLI | UFW · Fail2Ban | Wireshark · tcpdump | Git & GitHub |
+| CloudWatch (learning) | LAMP Stack · LXC | `dig` · `ss` · `nmap` | CI/CD (learning) |
+
+---
+
+## 📁 Featured Projects
+
+### 🔐 [AWS Cloud Support Labs](https://github.com/nagapriyahebbare/aws-cloud-support-labs)
+Hands-on troubleshooting labs simulating real AWS Support scenarios — EC2 connectivity failures, S3 policy misconfigurations, and IAM debugging.
