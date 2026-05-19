@@ -1,22 +1,49 @@
-# Hi, I'm Nagapriya Hebbare 👋
+# Hi there 👋 I'm Nagapriya
 
-🎯 Aspiring Cloud & DevOps Engineer based in Bengaluru, India  
-🔧 Hands-on with AWS, Linux server hardening, and networking fundamentals  
-📚 Currently pursuing AWS Cloud Practitioner | CCNA in progress  
-
----
-
-## 🛠️ Skills & Tools
-
-| Cloud | Linux | Networking | DevOps |
-|---|---|---|---|
-| AWS (EC2, S3, IAM, VPC) | Ubuntu Server | TCP/IP, DNS, SSH | Bash Scripting |
-| AWS CLI | UFW · Fail2Ban | Wireshark · tcpdump | Git & GitHub |
-| CloudWatch (learning) | LAMP Stack · LXC | `dig` · `ss` · `nmap` | CI/CD (learning) |
+🎓 BTech Student  
+☁️ Aspiring Cloud & DevOps Engineer  
+🚀 Currently learning AWS, Linux, Git, Python & DevOps Tools
 
 ---
 
-## 📁 Featured Projects
+## 🔥 Skills
 
-### 🔐 [AWS Cloud Support Labs](https://github.com/nagapriyahebbare/aws-cloud-support-labs)
-Hands-on troubleshooting labs simulating real AWS Support scenarios — EC2 connectivity failures, S3 policy misconfigurations, and IAM debugging.
+- AWS
+- Linux
+- Git & GitHub
+- Python
+- Networking Basics
+- Docker (Learning)
+- Kubernetes (Learning)
+
+---
+
+## 📌 Current Focus
+
+- Building Cloud Projects
+- Learning DevOps Tools
+- Improving DSA & Problem Solving
+- Preparing for Placements
+
+---
+
+## 🚀 Projects
+
+### ☁️ AWS Cloud Support Labs
+Hands-on AWS projects using IAM, S3, EC2 and CLI.
+
+### 🐧 Linux Practice Repository
+Linux commands, shell scripting and automation practice.
+
+### 🔧 Git & GitHub Practice
+Version control workflows and collaboration practice.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/nagapriyahebbare
+
+---
+
+⭐ Always learning and building.
