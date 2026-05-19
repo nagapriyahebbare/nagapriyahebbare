@@ -31,11 +31,6 @@
 ### ☁️ AWS Cloud Support Labs
 Hands-on AWS projects using IAM, S3, EC2 and CLI.
 
-### 🐧 Linux Practice Repository
-Linux commands, shell scripting and automation practice.
-
-### 🔧 Git & GitHub Practice
-Version control workflows and collaboration practice.
 
 ---
 
