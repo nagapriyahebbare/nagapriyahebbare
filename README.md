@@ -22,7 +22,6 @@
 
 - Building Cloud Projects
 - Learning DevOps Tools
-- Improving DSA & Problem Solving
 - Preparing for Placements
 
 ---
